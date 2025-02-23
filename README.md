@@ -1,4 +1,4 @@
-# Hello, I'm BALAJI N - LinXBalajiN 👋
+# Hello, I'm BALAJI NANTHAGOPALSAMY - LinXBalajiN 👋
 
 ### About Me
 - 🏫 I’m currently learning more about web development.
