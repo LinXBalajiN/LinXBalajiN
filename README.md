@@ -3,6 +3,11 @@
 ### About Me
 - 🏫 I’m currently learning more about web development.
 - 💼 I’m looking for opportunities to work with php/Laravel.
+- I am a dedicated PHP/Laravel Web Developer with a Bachelor's degree in Information
+  Technology. I have experience in web application development, and quality assurance. I am
+  proficient in various web technologies and passionate about continuously improving my
+  skills while contributing to team success. I am seeking opportunities to leverage my
+  expertise in a dynamic and challenging environment.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bulletz_balajizz_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinXBalajiN) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16657001) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LinXBalajiN) 
